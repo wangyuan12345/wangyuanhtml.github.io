@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyuanhtml.github.io</id>
-    <title>哈哈哈</title>
-    <updated>2021-03-02T14:11:15.671Z</updated>
+    <title>这是我的网页</title>
+    <updated>2021-03-02T14:12:50.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangyuanhtml.github.io"/>
     <link rel="self" href="https://wangyuanhtml.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://wangyuanhtml.github.io/images/avatar.png</logo>
     <icon>https://wangyuanhtml.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 哈哈哈</rights>
+    <rights>All rights reserved 2021, 这是我的网页</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangyuanhtml.github.io/post/hello-gridea/</id>
